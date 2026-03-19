@@ -21,7 +21,7 @@ print(df.head().to_string())
 #plt.xticks(ticks=range(0, int(df['salario'].max())+2000, 2000))
 #plt.ylabel('Frequência')
 #plt.grid(True)
-# plt.show()
+#plt.show()
 
 # Múltiplos gráficos
 plt.figure(figsize=(10,6))
